@@ -1,0 +1,17 @@
+rated
+opening_ply
+elo_diff
+avg_elo
+base_time
+increment
+opening_name_French Defense: Knight Variation
+opening_name_Horwitz Defense
+opening_name_Other
+opening_name_Queen's Pawn Game: Chigorin Variation
+opening_name_Queen's Pawn Game: Mason Attack
+opening_name_Scandinavian Defense
+opening_name_Scandinavian Defense: Mieses-Kotroc Variation
+opening_name_Scotch Game
+opening_name_Sicilian Defense
+opening_name_Sicilian Defense: Bowdler Attack
+opening_name_Van't Kruijs Opening
